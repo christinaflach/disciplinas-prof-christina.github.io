@@ -288,6 +288,7 @@ DEPENDENCIES
   github-pages (~> 227)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
+  jekyll-remote-theme
   minimal (~> 0.0.26)
   tzinfo (~> 1.2)
   tzinfo-data
