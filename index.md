@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Disciplinas
+theme: minimal
 ---
 
 # Disciplinas
